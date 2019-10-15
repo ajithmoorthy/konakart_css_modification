@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30122" started-at="2019-10-15T09:31:06Z" finished-at="2019-10-15T09:31:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30122" started-at="2019-10-15T09:31:06Z" finished-at="2019-10-15T09:31:36Z">
+      <class name="com.atmecs.konakart_css.testscripts.KonakartHome">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.atmecs.konakart_css.testscripts.KonakartHome@39c0f4a]" name="startReport" is-config="true" duration-ms="306" started-at="2019-10-15T09:31:06Z" finished-at="2019-10-15T09:31:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="baseSetup()[pri:0, instance:com.atmecs.konakart_css.testscripts.KonakartHome@39c0f4a]" name="baseSetup" is-config="true" duration-ms="8241" started-at="2019-10-15T09:31:06Z" finished-at="2019-10-15T09:31:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSetup -->
+        <test-method status="PASS" signature="validateKonakart([Ljava.lang.String;)[pri:0, instance:com.atmecs.konakart_css.testscripts.KonakartHome@39c0f4a]" name="validateKonakart" duration-ms="11076" started-at="2019-10-15T09:31:15Z" data-provider="welcomedata" finished-at="2019-10-15T09:31:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@d5ae57e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateKonakart -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.atmecs.konakart_css.testscripts.KonakartHome@39c0f4a]" name="tearDown" is-config="true" duration-ms="171" started-at="2019-10-15T09:31:26Z" finished-at="2019-10-15T09:31:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateKonakart status=SUCCESS method=KonakartHome.validateKonakart([Ljava.lang.String;)[pri:0, instance:com.atmecs.konakart_css.testscripts.KonakartHome@39c0f4a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="validateKonakart([Ljava.lang.String;)[pri:0, instance:com.atmecs.konakart_css.testscripts.KonakartHome@39c0f4a]" name="validateKonakart" duration-ms="9565" started-at="2019-10-15T09:31:26Z" data-provider="welcomedata" finished-at="2019-10-15T09:31:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@68759011]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateKonakart -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.atmecs.konakart_css.testscripts.KonakartHome@39c0f4a]" name="tearDown" is-config="true" duration-ms="109" started-at="2019-10-15T09:31:36Z" finished-at="2019-10-15T09:31:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateKonakart status=SUCCESS method=KonakartHome.validateKonakart([Ljava.lang.String;)[pri:0, instance:com.atmecs.konakart_css.testscripts.KonakartHome@39c0f4a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.atmecs.konakart_css.testscripts.KonakartHome@39c0f4a]" name="endReport" is-config="true" duration-ms="978" started-at="2019-10-15T09:31:36Z" finished-at="2019-10-15T09:31:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.atmecs.konakart_css.testscripts.KonakartHome -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
