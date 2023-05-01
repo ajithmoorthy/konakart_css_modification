@@ -11,7 +11,7 @@
 		<java.target>1.8</java.target>
 		<apache.poi>3.9</apache.poi>
 		<selenium.java>3.141.59</selenium.java>
-		<testng>6.14.3</testng>
+		<testng>7.7.0</testng>
 		<log4j>1.2.17</log4j>
 		<relevantcodes.extentreports>2.41.2</relevantcodes.extentreports>
 		<maven.surefire.plugin>3.0.0-M3</maven.surefire.plugin>
